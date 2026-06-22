@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026-06-22T09:00:00",
+    "meta_description": "At the June 16-17, 2026 FOMC meeting, new Fed chair Kevin Warsh held rates steady but dropped the easing bias and signaled a possible 2026 hike. What the hawkish turn means for mortgages, savers, borrowers, markets and the midterms.",
+    "read_time": 9,
+    "seo_score": 92,
+    "slug": "fed-rate-decision-warsh-hawkish-turn-june-2026",
+    "source": "news-research",
+    "title": "Warsh's Hawkish Pivot: The Fed Holds Rates but Tilts Toward a Hike Before the Midterms",
+    "word_count": 1758
+  },
+  {
+    "date": "2026-06-22T10:00:00",
+    "meta_description": "June 2026 analysis of the May 2026 US jobs report: 172,000 payrolls added, 4.3% unemployment, AI-related tech layoffs, cooling wages, and what it means for a hawkish Fed and job seekers.",
+    "read_time": 9,
+    "seo_score": 92,
+    "slug": "us-may-2026-jobs-report-labor-market-signals",
+    "source": "news-research",
+    "title": "Strong Headline, Weaker Story: What the May 2026 Jobs Report Really Signals",
+    "word_count": 1748
+  },
+  {
+    "date": "2026-06-22T11:00:00",
+    "meta_description": "By mid-June 2026, US tech layoffs topped 185,000 across 267 events, most blaming AI. Nvidia's Jensen Huang calls that 'lazy.' Inside the 2026 layoff debate and what it means for workers.",
+    "read_time": 8,
+    "seo_score": 92,
+    "slug": "ai-layoffs-2026-tech-job-cuts-huang-pushback",
+    "source": "news-research",
+    "title": "Is AI Really Behind the 2026 Tech Layoffs? The $725 Billion Question Splitting Silicon Valley",
+    "word_count": 1608
+  },
+  {
+    "date": "2026-06-22T08:00:00",
+    "meta_description": "A June 2026 NPR/PBS News/Marist poll finds President Trump's job approval at a record-low 36 percent and his economic approval at 33 percent, ahead of the 2026 midterms. Here is what the numbers say and what history suggests.",
+    "read_time": 8,
+    "seo_score": 92,
+    "slug": "trump-approval-record-low-2026-midterms-poll",
+    "source": "news-research",
+    "title": "Trump's Approval Hits a Record Low as the 2026 Midterm Calendar Begins",
+    "word_count": 1519
+  },
+  {
+    "date": "2026-06-22T07:30:00",
+    "meta_description": "In June 2026, VP JD Vance arrived in Switzerland for US-Iran talks to consolidate a fragile ceasefire and restart nuclear negotiations, while President Trump threatened fresh strikes if the talks fail. A factual look at the stakes and what to watch.",
+    "read_time": 9,
+    "seo_score": 92,
+    "slug": "us-iran-talks-switzerland-vance-ceasefire-june-2026",
+    "source": "news-research",
+    "title": "Vance in Switzerland: Inside the Fragile US-Iran Diplomacy of June 2026",
+    "word_count": 1815
+  },
+  {
+    "date": "2026-06-22T12:00:00",
+    "meta_description": "A June 2026 DHS document outlines giving local police the ICE facial-recognition app that scans faces against 250 million records. Inside the plan, the privacy and bias concerns, the law-enforcement rationale, and the legal landscape.",
+    "read_time": 8,
+    "seo_score": 92,
+    "slug": "dhs-facial-recognition-local-police-surveillance-2026",
+    "source": "news-research",
+    "title": "DHS Plan to Hand Local Police ICE's Facial-Recognition App Sparks Surveillance Fight",
+    "word_count": 1600
+  },
+  {
+    "date": "2026-06-22T13:00:00",
+    "meta_description": "A record Southwest heat wave and Western wildfires, including Utah's Iron Fire that evacuated Eureka in June 2026, signal a dangerous summer. Heat safety, evacuation readiness and the climate context.",
+    "read_time": 8,
+    "seo_score": 92,
+    "slug": "southwest-heat-wave-western-wildfires-june-2026",
+    "source": "news-research",
+    "title": "Scorched West: A Historic Southwest Heat Wave and the Iron Fire Set the Tone for Summer 2026",
+    "word_count": 1691
+  },
+  {
+    "date": "2026-06-22T13:30:00",
+    "meta_description": "NOAA declared El Niño in June 2026 with a greater-than-50% chance of a \"super\" event. Here is how the 2026 El Niño could change US weather region by region, the Atlantic hurricane season outlook, and how households can prepare.",
+    "read_time": 9,
+    "seo_score": 92,
+    "slug": "el-nino-2026-return-hurricane-season-outlook",
+    "source": "news-research",
+    "title": "El Niño Returns in 2026: What a Possible \"Super\" Event Means for US Weather and Hurricane Season",
+    "word_count": 1718
+  },
+  {
+    "date": "2026-06-22T14:00:00",
+    "meta_description": "As of late June 2026, the USMNT has won Group D at the FIFA World Cup and cracked the global top 10, while 11 U.S. host cities tally a tourism and spending boom. Here is where the team stands and what to watch in the knockouts.",
+    "read_time": 8,
+    "seo_score": 92,
+    "slug": "world-cup-2026-usa-group-stage-host-city-economics",
+    "source": "news-research",
+    "title": "USMNT Surges, Cities Cash In: Inside America's World Cup as the Group Stage Winds Down",
+    "word_count": 1652
+  },
+  {
+    "date": "2026-06-22T14:30:00",
+    "meta_description": "In June 2026, AMD, Intel and Broadcom led a sharp semiconductor sell-off. We break down the triggers, the AI-bubble debate, the hawkish Warsh Fed and what it means for investors and 401(k)s.",
+    "read_time": 9,
+    "seo_score": 92,
+    "slug": "semiconductor-selloff-2026-ai-chip-stocks-amd-intel",
+    "source": "news-research",
+    "title": "The 2026 Semiconductor Sell-Off: Why AMD, Intel and AI-Chip Stocks Tumbled",
+    "word_count": 1793
+  },
+  {
     "title": "Complete Guide To Social Media Trends Shaping 2026",
     "slug": "complete-guide-to-social-media-trends-shaping-2026",
     "meta_description": "Complete guide to complete guide to social media trends shaping 2026. Expert tips, step-by-step advice, and FAQs for US adults staying informed aged 18-60.",
@@ -140,9 +240,9 @@
     "source": "template"
   },
   {
-    "title": "Can Usa Really Win The 2026 World Cup? 'Yes,' Zlatan Ibrahimovi\u0107 Says",
+    "title": "Can Usa Really Win The 2026 World Cup? 'Yes,' Zlatan Ibrahimović Says",
     "slug": "can-usa-really-win-the-2026-world-cup-yes-zlatan-ibrahimovic-says",
-    "meta_description": "Complete guide to Can USA Really Win The 2026 World Cup? 'Yes,' Zlatan Ibrahimovi\u0107 Says. Expert tips, step-by-step advice, and FAQs for US adults staying i",
+    "meta_description": "Complete guide to Can USA Really Win The 2026 World Cup? 'Yes,' Zlatan Ibrahimović Says. Expert tips, step-by-step advice, and FAQs for US adults staying i",
     "date": "2026-06-20T14:26:19.232407",
     "word_count": 781,
     "read_time": 3,
@@ -150,9 +250,9 @@
     "source": "template"
   },
   {
-    "title": "Usa Advances \ud83c\uddfa\ud83c\uddf8 Zlatan Says United States Can Win 2026 Fifa World Cup\u2122",
+    "title": "Usa Advances 🇺🇸 Zlatan Says United States Can Win 2026 Fifa World Cup™",
     "slug": "usa-advances-zlatan-says-united-states-can-win-2026-fifa-world-cuptm",
-    "meta_description": "Complete guide to USA ADVANCES \ud83c\uddfa\ud83c\uddf8 Zlatan says United States CAN Win 2026 FIFA World Cup\u2122. Expert tips, step-by-step advice, and FAQs for US adults staying ",
+    "meta_description": "Complete guide to USA ADVANCES 🇺🇸 Zlatan says United States CAN Win 2026 FIFA World Cup™. Expert tips, step-by-step advice, and FAQs for US adults staying ",
     "date": "2026-06-20T12:00:09.897605",
     "word_count": 781,
     "read_time": 3,
@@ -160,9 +260,9 @@
     "source": "template"
   },
   {
-    "title": "2026 World Cup: Usa\u2019S Odds Skyrocket After Win Over Australia",
+    "title": "2026 World Cup: Usa’S Odds Skyrocket After Win Over Australia",
     "slug": "2026-world-cup-usas-odds-skyrocket-after-win-over-australia",
-    "meta_description": "Complete guide to 2026 World Cup: USA\u2019s Odds Skyrocket After Win Over Australia. Expert tips, step-by-step advice, and FAQs for US adults staying informed ",
+    "meta_description": "Complete guide to 2026 World Cup: USA’s Odds Skyrocket After Win Over Australia. Expert tips, step-by-step advice, and FAQs for US adults staying informed ",
     "date": "2026-06-20T09:24:51.608333",
     "word_count": 768,
     "read_time": 3,
@@ -630,9 +730,9 @@
     "source": "template"
   },
   {
-    "title": "Pink Cleats Are Everywhere At The World Cup\u2014Here\u2019S Why",
+    "title": "Pink Cleats Are Everywhere At The World Cup—Here’S Why",
     "slug": "pink-cleats-are-everywhere-at-the-world-cup-heres-why",
-    "meta_description": "Complete guide to Pink cleats are everywhere at the World Cup\u2014here\u2019s why. Expert tips, step-by-step advice, and FAQs for US adults staying informed aged 18",
+    "meta_description": "Complete guide to Pink cleats are everywhere at the World Cup—here’s why. Expert tips, step-by-step advice, and FAQs for US adults staying informed aged 18",
     "date": "2026-06-13T08:24:40.696166",
     "word_count": 768,
     "read_time": 3,
@@ -790,9 +890,9 @@
     "source": "template"
   },
   {
-    "title": "Why Carmelo Anthony Is Trending \u2014 And Why It\u2019S Not The Former Nba Star",
+    "title": "Why Carmelo Anthony Is Trending — And Why It’S Not The Former Nba Star",
     "slug": "why-carmelo-anthony-is-trending-and-why-its-not-the-former-nba-star",
-    "meta_description": "Complete guide to Why Carmelo Anthony is trending \u2014 and why it\u2019s not the former NBA star. Expert tips, step-by-step advice, and FAQs for US adults staying ",
+    "meta_description": "Complete guide to Why Carmelo Anthony is trending — and why it’s not the former NBA star. Expert tips, step-by-step advice, and FAQs for US adults staying ",
     "date": "2026-06-10T22:07:26.950120",
     "word_count": 807,
     "read_time": 3,
@@ -960,9 +1060,9 @@
     "source": "template"
   },
   {
-    "title": "Route 66 Road Trips Are Trending Again\u2014Here\u2019S How To Do It For Less",
+    "title": "Route 66 Road Trips Are Trending Again—Here’S How To Do It For Less",
     "slug": "route-66-road-trips-are-trending-again-heres-how-to-do-it-for-less",
-    "meta_description": "Complete guide to Route 66 road trips are trending again\u2014here\u2019s how to do it for less. Expert tips, step-by-step advice, and FAQs for US adults staying inf",
+    "meta_description": "Complete guide to Route 66 road trips are trending again—here’s how to do it for less. Expert tips, step-by-step advice, and FAQs for US adults staying inf",
     "date": "2026-06-08T11:05:36.104368",
     "word_count": 820,
     "read_time": 3,
@@ -1040,9 +1140,9 @@
     "source": "template"
   },
   {
-    "title": "State Of The Us Consumer: May\u2013June 2026",
+    "title": "State Of The Us Consumer: May–June 2026",
     "slug": "state-of-the-us-consumer-may-june-2026",
-    "meta_description": "Complete guide to State of the US Consumer: May\u2013June 2026. Expert tips, step-by-step advice, and FAQs for US adults staying informed aged 18-60.",
+    "meta_description": "Complete guide to State of the US Consumer: May–June 2026. Expert tips, step-by-step advice, and FAQs for US adults staying informed aged 18-60.",
     "date": "2026-06-07T11:51:38.307770",
     "word_count": 729,
     "read_time": 3,
@@ -1240,9 +1340,9 @@
     "source": "template"
   },
   {
-    "title": "Trends In Electric Cars \u2013 Global Ev Outlook 2026 \u2013 Analysis - Iea \u2013 International Energy Agency",
+    "title": "Trends In Electric Cars – Global Ev Outlook 2026 – Analysis - Iea – International Energy Agency",
     "slug": "trends-in-electric-cars-global-ev-outlook-2026-analysis-iea-international-energy-agency",
-    "meta_description": "Complete guide to Trends in electric cars \u2013 Global EV Outlook 2026 \u2013 Analysis - IEA \u2013 International Energy Agency. Expert tips, step-by-step advice, and FA",
+    "meta_description": "Complete guide to Trends in electric cars – Global EV Outlook 2026 – Analysis - IEA – International Energy Agency. Expert tips, step-by-step advice, and FA",
     "date": "2026-06-05T04:11:26.246746",
     "word_count": 794,
     "read_time": 3,
@@ -1380,9 +1480,9 @@
     "source": "template"
   },
   {
-    "title": "R\u00faben Dias: 'Let'S See' If World Cup Will Be The Last For Ronaldo, Messi, Modric",
+    "title": "Rúben Dias: 'Let'S See' If World Cup Will Be The Last For Ronaldo, Messi, Modric",
     "slug": "ruben-dias-let-s-see-if-world-cup-will-be-the-last-for-ronaldo-messi-modric",
-    "meta_description": "Complete guide to R\u00faben Dias: 'Let's See' If World Cup Will Be The Last For Ronaldo, Messi, Modric. Expert tips, step-by-step advice, and FAQs for US adult",
+    "meta_description": "Complete guide to Rúben Dias: 'Let's See' If World Cup Will Be The Last For Ronaldo, Messi, Modric. Expert tips, step-by-step advice, and FAQs for US adult",
     "date": "2026-06-02T23:50:23.402997",
     "word_count": 833,
     "read_time": 3,
@@ -1570,9 +1670,9 @@
     "source": "template"
   },
   {
-    "title": "These Are The 6 Jewelry Trends I\u2019M Wearing All Spring And Summer As A Fashion Editor",
+    "title": "These Are The 6 Jewelry Trends I’M Wearing All Spring And Summer As A Fashion Editor",
     "slug": "these-are-the-6-jewelry-trends-im-wearing-all-spring-and-summer-as-a-fashion-editor",
-    "meta_description": "Complete guide to These Are the 6 Jewelry Trends I\u2019m Wearing All Spring and Summer as a Fashion Editor. Expert tips, step-by-step advice, and FAQs for US a",
+    "meta_description": "Complete guide to These Are the 6 Jewelry Trends I’m Wearing All Spring and Summer as a Fashion Editor. Expert tips, step-by-step advice, and FAQs for US a",
     "date": "2026-05-31T04:16:21.042165",
     "word_count": 846,
     "read_time": 3,
@@ -1710,9 +1810,9 @@
     "source": "template"
   },
   {
-    "title": "Inside Alejandro Zendejas\u2019 Unique Path To The Usa'S World Cup Roster",
+    "title": "Inside Alejandro Zendejas’ Unique Path To The Usa'S World Cup Roster",
     "slug": "inside-alejandro-zendejas-unique-path-to-the-usa-s-world-cup-roster",
-    "meta_description": "Complete guide to Inside Alejandro Zendejas\u2019 Unique Path To The USA's World Cup Roster. Expert tips, step-by-step advice, and FAQs for US adults staying in",
+    "meta_description": "Complete guide to Inside Alejandro Zendejas’ Unique Path To The USA's World Cup Roster. Expert tips, step-by-step advice, and FAQs for US adults staying in",
     "date": "2026-05-29T16:45:50.950263",
     "word_count": 781,
     "read_time": 3,
@@ -1840,9 +1940,9 @@
     "source": "template"
   },
   {
-    "title": "Hailey Bieber Wore These Flattering Swimsuits\u2014Shop The Exact Styles",
+    "title": "Hailey Bieber Wore These Flattering Swimsuits—Shop The Exact Styles",
     "slug": "hailey-bieber-wore-these-flattering-swimsuits-shop-the-exact-styles",
-    "meta_description": "Complete guide to Hailey Bieber wore these flattering swimsuits\u2014shop the exact styles. Expert tips, step-by-step advice, and FAQs for US adults staying inf",
+    "meta_description": "Complete guide to Hailey Bieber wore these flattering swimsuits—shop the exact styles. Expert tips, step-by-step advice, and FAQs for US adults staying inf",
     "date": "2026-05-27T14:29:41.819661",
     "word_count": 755,
     "read_time": 3,
@@ -1860,9 +1960,9 @@
     "source": "template"
   },
   {
-    "title": "The Usa Announced Its 2026 World Cup Roster. Now What?: 'It\u2019S All Hands On Deck'",
+    "title": "The Usa Announced Its 2026 World Cup Roster. Now What?: 'It’S All Hands On Deck'",
     "slug": "the-usa-announced-its-2026-world-cup-roster-now-what-its-all-hands-on-deck",
-    "meta_description": "Complete guide to The USA Announced Its 2026 World Cup Roster. Now What?: 'It\u2019s All Hands On Deck'. Expert tips, step-by-step advice, and FAQs for US adult",
+    "meta_description": "Complete guide to The USA Announced Its 2026 World Cup Roster. Now What?: 'It’s All Hands On Deck'. Expert tips, step-by-step advice, and FAQs for US adult",
     "date": "2026-05-27T05:20:22.357031",
     "word_count": 833,
     "read_time": 3,
@@ -1930,9 +2030,9 @@
     "source": "template"
   },
   {
-    "title": "What\u2019S Happening This Week In Economics?",
+    "title": "What’S Happening This Week In Economics?",
     "slug": "whats-happening-this-week-in-economics",
-    "meta_description": "Complete guide to What\u2019s happening this week in economics?. Expert tips, step-by-step advice, and FAQs for US adults staying informed aged 18-60.",
+    "meta_description": "Complete guide to What’s happening this week in economics?. Expert tips, step-by-step advice, and FAQs for US adults staying informed aged 18-60.",
     "date": "2026-05-26T04:00:00.771236",
     "word_count": 716,
     "read_time": 3,
@@ -2050,9 +2150,9 @@
     "source": "template"
   },
   {
-    "title": "1994 Usa Reunion: Former Players Relive The \u201994 World Cup, Look Ahead To 2026",
+    "title": "1994 Usa Reunion: Former Players Relive The ’94 World Cup, Look Ahead To 2026",
     "slug": "1994-usa-reunion-former-players-relive-the-94-world-cup-look-ahead-to-2026",
-    "meta_description": "Complete guide to 1994 USA Reunion: Former Players Relive The \u201994 World Cup, Look Ahead to 2026. Expert tips, step-by-step advice, and FAQs for US adults s",
+    "meta_description": "Complete guide to 1994 USA Reunion: Former Players Relive The ’94 World Cup, Look Ahead to 2026. Expert tips, step-by-step advice, and FAQs for US adults s",
     "date": "2026-05-24T20:01:19.889544",
     "word_count": 807,
     "read_time": 3,
@@ -2080,9 +2180,9 @@
     "source": "template"
   },
   {
-    "title": "1994 Usa Reunion: Former Players Relive The \u201994 World Cup, Look Ahead To 2026",
+    "title": "1994 Usa Reunion: Former Players Relive The ’94 World Cup, Look Ahead To 2026",
     "slug": "1994-usa-reunion-former-players-relive-the-94-world-cup-look-ahead-to-2026",
-    "meta_description": "Complete guide to 1994 USA Reunion: Former Players Relive The \u201994 World Cup, Look Ahead to 2026. Expert tips, step-by-step advice, and FAQs for US adults s",
+    "meta_description": "Complete guide to 1994 USA Reunion: Former Players Relive The ’94 World Cup, Look Ahead to 2026. Expert tips, step-by-step advice, and FAQs for US adults s",
     "date": "2026-05-25T01:18:24.106068",
     "word_count": 807,
     "read_time": 3,
@@ -2102,7 +2202,7 @@
   {
     "title": "AI in the Workplace: Which Jobs Are Changing and What to Do About It",
     "slug": "ai-workplace-jobs-changing-how-to-adapt-2026",
-    "meta_description": "AI is changing jobs in 2026 \u2014 not just replacing them. Learn which roles are most affected, which skills are in demand, and how to adapt your career for the ...",
+    "meta_description": "AI is changing jobs in 2026 — not just replacing them. Learn which roles are most affected, which skills are in demand, and how to adapt your career for the ...",
     "date": "2026-05-25T00:20:46.436524",
     "word_count": 698,
     "read_time": 3,
